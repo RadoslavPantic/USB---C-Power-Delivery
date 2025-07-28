@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS54531DDA")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/TPS54531DDA/TPS54531DDA.kicad_sym")(options "")(descr ""))
+  (lib (name "STUSB4710AQ1TR")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/STUSB4710AQ1TR/STUSB4710AQ1TR .kicad_sym")(options "")(descr ""))
+  (lib (name "TPS54540DDA")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/TPS54540DDA/TPS54540DDA.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS55340PWPR")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/TPS55340PWPR.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS56837RPAR")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/TPS56837RPAR/TPS56837RPAR.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS56043")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/TPS56837RPAR/TPS56043.kicad_sym")(options "")(descr ""))
+)
