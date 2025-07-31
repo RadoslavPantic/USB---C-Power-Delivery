@@ -23,7 +23,7 @@ The project is configured in a buck topology, meaning there is a constant 24 V D
 
 The schematic of the circuit is shown below:
 
-![Schematic](images/schematic.svg)
+![Schematic](Images/schematic.svg)
 
 ---
 
@@ -31,6 +31,6 @@ The schematic of the circuit is shown below:
 
 The 3D render of the assembled PCB:
 
-![3D View](images/3d_view.png)
+![3D View](Images/3d_view.png)
 
 
