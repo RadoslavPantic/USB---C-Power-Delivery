@@ -23,7 +23,7 @@ The project is configured in a buck topology, meaning there is a constant 24 V D
 
 The schematic of the circuit is shown below:
 
-![Schematic](Images/usb_c_pdf_source.pdf)
+![Schematic](Images/usb_c_pd_source.pdf)
 
 ---
 
