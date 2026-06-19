@@ -31,6 +31,6 @@ The schematic of the circuit is shown below:
 
 The 3D render of the assembled PCB:
 
-![3D View](Images/3d_view.png)
+![3D View](Images/3dview.png)
 
 
